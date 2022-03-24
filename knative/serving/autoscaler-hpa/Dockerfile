@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:980ed8d10c5cb8dbed5f2ec74dc81a1967c7f4ebb1f980789b9c42bbad5e74a7
