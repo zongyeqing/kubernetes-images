@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/kafka-controller@sha256:64ae836c3da5c899827f45c56784f8cfdddd780e508c3a4adba9c0cf7576e96e
