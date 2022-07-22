@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative-kafka-broker-dispatcher@sha256:08277a501a6a6a0c249d3669d146620ada098b570c62c841b5d3e259fa8d6f44
+FROM gcr.io/knative-releases/knative-kafka-broker-dispatcher@sha256:0a94458382e145c78b495515f67df6a843989cdbbbe7f67102ad5e8fe6bbb6d6
